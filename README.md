@@ -35,14 +35,14 @@ This repo documents the complete build of a production-style Linux server — fr
 
 | # | Component | Status |
 |---|-----------|--------|
-| 01 | Baseline — hostname, users, sudo | 🔄 In progress |
-| 02 | Storage — LVM, filesystems, fstab | ⏳ Pending |
-| 03 | Web server — nginx, firewall | ⏳ Pending |
-| 04 | SSH — key auth, hardening | ⏳ Pending |
-| 05 | SELinux — contexts, booleans | ⏳ Pending |
-| 06 | Scheduling — cron, systemd timers | ⏳ Pending |
-| 07 | Monitoring — journald, log rotation | ⏳ Pending |
-| 08 | Backups — automated scripts | ⏳ Pending |
+| 01 | Baseline — hostname, users, sudo | ✅ Done |
+| 02 | Storage — LVM, filesystems, fstab | ✅ Done |
+| 03 | Web server — nginx, firewall | ✅ Done |
+| 04 | SSH — key auth, hardening | ✅ Done |
+| 05 | SELinux — contexts, booleans | ✅ Done |
+| 06 | Scheduling — cron, systemd timers | ✅ Done |
+| 07 | Monitoring — journald, log rotation | ✅ Done |
+| 08 | Backups — automated scripts | ✅ Done |
 
 ---
 
